@@ -315,3 +315,14 @@ jupyter notebook GooglePlayStore.ipynb
 **Sahil Kale**
 📍 Pune, Maharashtra, India
 🔗 [LinkedIn](https://linkedin.com/in/sahil-kale01) | [GitHub](https://github.com/Sahil-018)
+---
+
+## Copyright and Usage
+
+Copyright © 2026 Sahil Kale.  
+All rights reserved.
+
+This project is shared on GitHub for portfolio and internship evaluation
+purposes only. No permission is granted to reuse, redistribute, modify,
+publish, or use this work commercially without prior written permission
+from Sahil Kale.
